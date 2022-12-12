@@ -1,4 +1,4 @@
-### What's AWS ?
+### What is AWS ?
 - AWS (Amazon Web Service) is a cloud provider
 - They provide you with servers and services that you can use ON DEMAND and SCALE EASILY
 - AWS has revolutionized IT over time
