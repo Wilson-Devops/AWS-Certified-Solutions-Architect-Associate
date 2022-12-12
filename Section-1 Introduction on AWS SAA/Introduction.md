@@ -1,0 +1,34 @@
+### What's AWS ?
+- AWS (Amazon Web Service) is a cloud provider
+- They provide you with servers and services that you can use ON DEMAND and SCALE EASILY
+- AWS has revolutionized IT over time
+- AWS Powers some of the biggest Websites in the world
+    - Amazon.com
+    - Netflix
+
+### What we will learn in this course ?
+  - Amazon Ec2
+  - Amazon ECS
+  - Amazon ECR
+  - Amazon Elastic Bean Stack
+  - Amazon Lambda
+  - Auto Scaling
+  - IAM
+  - AWS KMS
+  - Amazon S3 
+  - Amazon SES
+  - Amazon RDS
+  - Amazon Aurora
+  - Amazon Dynamo DB
+  - Amazon Elastic Cache
+  - Amazon SQS
+  - Amazon SNS
+  - Amazon Step Functions
+  - Amazon Cloud Watch
+  - AWS Cloud Formation
+  - AWS Cloud Trail
+  - Amazon API Gateway
+  - Elastic Load Balancing
+  - Amazon Cloud Front
+  - Amazon Kinesis
+  - Amazon Route 53
